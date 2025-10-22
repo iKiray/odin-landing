@@ -147,3 +147,10 @@ body {
     padding: 8px 30px;
     font-weight: 900;
 }
+
+.footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    text-align: center;
+    padding: 48px 0px;
+}

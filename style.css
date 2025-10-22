@@ -72,3 +72,22 @@ body {
     padding: 100px 200px;
     margin-right: 400px;
 }
+
+.info {
+    text-align: center;
+}
+
+.con2 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+.card {
+    width: 150px;
+    text-align: center;
+    img {
+        border: #3882F6 2px solid;
+        border-radius: 10px;
+        padding: 70px;
+    }
+}
